@@ -23,4 +23,9 @@
     for ($i=1; $i<11; $i++) {
         echo 5, "x" , $i , "=" ,5*$i ,"<br>";
     }
+    // 6 Times Table //
+    echo "6 Times table <br>";
+    for ($i=1; $i<11; $i++) {
+        echo 6, "x" , $i , "=" ,6*$i ,"<br>";
+    }
 ?>
